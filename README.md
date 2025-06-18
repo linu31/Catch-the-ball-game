@@ -4,7 +4,7 @@ A simple and addictive "Catch the Ball" game built using HTML, CSS, and JavaScri
 
 ## 🔗 Live Demo
 
-👉 [Play Now on Vercel](https://catch-the-ball.vercel.app)
+👉 [Play Now on Vercel](https://catch-the-ball-game-ochre.vercel.app/)
 
 
 ---
